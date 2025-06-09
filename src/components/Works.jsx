@@ -15,6 +15,9 @@ const ProjectCard = ({
   tags,
   image,
   source_code_link,
+  organization,
+  role,
+  duration,
 }) => {
   return (
     <motion.div variants={fadeIn("up", "spring", index * 0.5, 0.75)}>
@@ -49,7 +52,18 @@ const ProjectCard = ({
 
         <div className='mt-5'>
           <h3 className='text-white font-bold text-[24px]'>{name}</h3>
+          {organization && (
+            <p className='text-[15px] text-[#aaa] font-semibold mt-1'>{organization}</p>
+          )}
           <p className='mt-2 text-secondary text-[14px]'>{description}</p>
+          <div className='flex flex-row gap-4 mt-2'>
+            {role && (
+              <span className='text-[13px] text-[#b5e853] font-medium'>Role: {role}</span>
+            )}
+            {duration && (
+              <span className='text-[13px] text-[#53cbe8] font-medium'>Duration: {duration}</span>
+            )}
+          </div>
         </div>
 
         <div className='mt-4 flex flex-wrap gap-2'>
