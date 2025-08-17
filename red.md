@@ -24,7 +24,7 @@ I'm a passionate AI Developer and Full Stack Engineer from Indore, India, driven
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### 🌌 3D Portfolio Showcase
+### 🌌 3D Portfolio 
 
 <div align="center">
   <table style="width:100%; border: none;">
@@ -33,7 +33,7 @@ I'm a passionate AI Developer and Full Stack Engineer from Indore, India, driven
         <h3>🚀 Interactive 3D Experience</h3>
         <p><em>Explore my digital universe built with cutting-edge web technologies.</em></p>
         <br>
-        <img src="https://raw.githubusercontent.com/himaxx/port/main/portfolio-demo.gif" width="90%" alt="3D Portfolio Preview"/>
+        <img src="https://raw.githubusercontent.com/himaxx/port/main/WhatsApp%20Video%202025-08-17%20at%2021.35.10_9c1c0265.mp4.gif" width="95%" alt="3D Portfolio Preview"/>
         <br><br>
         <a href="https://himanshuuuportfolio.netlify.app" target="_blank">
           <img src="https://img.shields.io/badge/🌌_EXPLORE_PORTFOLIO-00D4FF?style=for-the-badge&logo=three.js&logoColor=black" alt="3D Portfolio Link"/>
